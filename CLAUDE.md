@@ -16,7 +16,7 @@ Show control and automation systems for the Dracula London theatrical production
 | Name | Email | Phone | Company |
 |------|-------|-------|---------|
 | Martyn Sands | martyn@martynsands.com | +44 7791 122086 | Kindred Partners Ltd |
-| Amanda Murray | amanda@kindred-partners.com | | Dorian UK Production Ltd |
+| Amanda Murray | amanda@kindred-partners.com | | Kindred Partners International Ltd |
 
 ## Commands
 
