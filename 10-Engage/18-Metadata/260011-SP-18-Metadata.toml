@@ -1,25 +1,25 @@
-# Project Metadata for {{PROJECT_TITLE}}
+# Project Metadata for Dracula London
 # Version: 1
 
 [project]
-id = "{{PROJECT_ID}}"
-title = "{{PROJECT_TITLE}}"
+id = "260011-SP"
+title = "Dracula London"
 
 [client]
-name = "{{CLIENT_NAME}}"
-short_name = "{{CLIENT_SHORT_NAME}}"
-address_line1 = ""
-address_line2 = ""
+name = "Kindred Partners Ltd"
+short_name = "KindredPartners"
+address_line1 = "3rd Floor, Joel House, 17-19 Garrick Street"
+address_line2 = "London WC2E 9AR, United Kingdom"
 
 [client.contact]
-salutation = ""
+salutation = "Mr"
 title = ""
-email = ""
-phone = ""
+email = "martyn@martynsands.com"
+phone = "+44 7791 122086"
 
 [client.contact.name]
-first = ""
-last = ""
+first = "Martyn"
+last = "Sands"
 
 [simplemotion]
 entity = "SimpleMotion.Projects Pty Ltd"
