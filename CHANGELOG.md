@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|---------|
+| v0.0.0.5 | 5fd2531 | 2026-02-01 22:45 UTC | Greg Gowans | Add Stuart Tucker as third contact |
 | v0.0.0.4 | 2d86ef6 | 2026-02-01 23:18 UTC | Greg Gowans | Update Amanda company to Kindred Partners International Ltd |
 | v0.0.0.3 | 0ba4ad3 | 2026-02-01 23:12 UTC | Greg Gowans | Add Amanda Murray as secondary contact |
 | v0.0.0.2 | 9ab096b | 2026-02-01 23:05 UTC | Greg Gowans | Add Kindred Partners client details from Xero |

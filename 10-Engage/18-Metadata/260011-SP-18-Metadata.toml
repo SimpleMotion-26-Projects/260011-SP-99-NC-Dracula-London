@@ -32,6 +32,17 @@ company = "Kindred Partners International Ltd"
 first = "Amanda"
 last = "Murray"
 
+[client.contact3]
+salutation = "Mr"
+title = ""
+email = "stuart@tgrprods.com"
+phone = ""
+company = "TGR Productions"
+
+[client.contact3.name]
+first = "Stuart"
+last = "Tucker"
+
 [simplemotion]
 entity = "SimpleMotion.Projects Pty Ltd"
 short_name = "SimpleMotion"
