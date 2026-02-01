@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**{{PROJECT_ID}}** | {{CLIENT_NAME}} | {{PROJECT_TITLE}}
+**260011-SP** | NC | Dracula London
 
-{{PROJECT_DESCRIPTION}}
+Dracula London show production project.
 
 ## Commands
 
