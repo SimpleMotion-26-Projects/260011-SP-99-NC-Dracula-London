@@ -3,7 +3,10 @@
 All notable changes to this project will be documented in this file.
 
 | Version | Hash | Date | Author | Message |
-|---------|------|------|--------|---------|
+|---------|------|------|--------|
+| v0.0.0.13 | c19190f | 2026-02-07 11:44 UTC | Greg Gowans | Add CaptivateAV letter of compliance documents |
+| v0.0.0.12 | aaa2ede | 2026-02-06 19:52 UTC | Greg | Update CHANGELOG for v0.0.0.10 through v0.0.0.11 |
+---------|
 | v0.0.0.11 | 7788c87 | 2026-02-06 19:51 UTC | Greg Gowans | Add invoice SE-IN-260011-0005: 2 weeks additional production (£9,400 GBP) |
 | v0.0.0.10 | 2a8ab6f | 2026-02-06 19:13 UTC | Greg Gowans | Update CHANGELOG for v0.0.0.7 through v0.0.0.9 |
 | v0.0.0.9 | 8a99d87 | 2026-02-06 19:11 UTC | Greg Gowans | Update QU and LC: contacts, pricing, T&C, venue, and DRAFT watermark |
